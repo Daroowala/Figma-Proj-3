@@ -35,7 +35,7 @@
     color: white;
     text-decoration: none;
 }
-@media (min-width: 425px){
+/* @media (min-width: 425px){
 .navbar{
     width: 96%;
 }
@@ -48,6 +48,6 @@
     gap: 4%;
     margin-top: -28px;
 }
-}
+} */
 
 
