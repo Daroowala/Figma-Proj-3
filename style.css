@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.contanier1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    position: relative;
+    border: 1px solid black;
+    padding: 20px 50px;
+    width: 920px ;
+    height: 400px;
+    background-color: #74C69D;
+}
+.navbar{
+    display: flex;
+    justify-content: center;
+    border: 1px solid black;
+    width: 100%;
+    height: 15%;
+    margin: 0% 0% 30% 0%;
+}
+.logo{
+    margin: 0% 0% 0% -86%;
+}
+.start{
+    
+}
