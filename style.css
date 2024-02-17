@@ -35,18 +35,18 @@
     color: white;
     text-decoration: none;
 }
-@media (max-width: 320px){
+@media (max-width: 420px){
 .navbar{
-    width: 110%;
+    width: 95%;
 }
 .logo{
-    margin: 7px -15px; 
-    width: 90px;
+    margin: 7px -10px; 
+    width: 100px;
 }
 .bar{
-    width: 342px;
+    width: 394px;
     gap: 4%;
-    margin-top: -27px;
+    margin-top: -29px;
 }
 }
 
