@@ -35,19 +35,19 @@
     color: white;
     text-decoration: none;
 }
-/* @media (min-width: 425px){
+@media (max-width: 320px){
 .navbar{
     width: 96%;
 }
 .logo{
-    margin: 5px -16px; 
-    width: 115px;
+    margin: 9px -16px; 
+    width: 75px;
 }
 .bar{
-    width: 403px;
+    width: 303px;
     gap: 4%;
     margin-top: -28px;
 }
-} */
+}
 
 
