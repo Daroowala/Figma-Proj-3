@@ -12,12 +12,12 @@
     
 }
 .navbar{
-    border: 1px solid black;
+    /* border: 1px solid black; */
     padding: 20px;
     width: 96%;
     height: 6%;
     position: absolute;
-    bottom: 87%;
+    bottom: 88%;
     left: -1px;
     background-color: #74C69D;
 }
@@ -34,6 +34,19 @@
 .bar1{
     color: white;
     text-decoration: none;
+}
+@media (max-width: 420px){
+.navbar{
+    width: 94%;
+}
+.logo{
+    margin: 0px -9px; 
+    width: 152px;
+}
+.bar{
+    width: 386px;
+    gap: 3%;
+}
 }
 
 
